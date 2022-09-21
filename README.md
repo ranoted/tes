@@ -2,28 +2,12 @@
 title: Inicio
 lang: en-US
 display: none
-description: A blog theme for VuePress
-image: https://picsum.photos/1920/1080/?random&date=2019-02-22
-date: 2019-02-22
+description: 
+image: 
+date: 
 tags:
 categories:
 --- 
-
-> A blog theme for VuePress
-
-**This plugin is for Vuepress 1.0**
-
-<!-- more -->
-
-Live Demo: [My Blog](https://ououe.com)
-
-Uses [vuepress-theme-ououe-template](https://github.com/tolking/vuepress-theme-ououe-template) to starter
-
-Take [TryGhost/Casper](https://github.com/TryGhost/Casper) as a reference
-
-[Source code](https://github.com/tolking/vuepress-theme-ououe)
-
----
 
 ## Installation
 
